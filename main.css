@@ -1,4 +1,12 @@
-li {
-    color: rgb(255, 131, 218);
-    font-size: 15px;
-}
+
+  div {
+    background-color: crimson;
+  }
+
+  img {
+    margin: 15px;
+    background-color: yellow;
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+  }
